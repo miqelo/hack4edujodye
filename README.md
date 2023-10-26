@@ -17,3 +17,18 @@ La ventaja competitiva más importante de este proyecto es su bajo costo, su cap
 
 ![Sin título](https://github.com/miqelo/hack4edujodye/assets/107508583/86e8cae1-4dbe-4122-8170-c83e8253b073)
 ![Sin título2](https://github.com/miqelo/hack4edujodye/assets/107508583/7f45b02d-ba22-4c48-996b-97a69993a2aa)
+
+INTEGRANTES
+-> GONZALO
+-> ALMA
+-> SISLEY
+-> MARISOL
+
+![gRUPO](https://github.com/miqelo/hack4edujodye/assets/107508583/81de70df-3aa4-46d5-9bf9-8f2bdb417aca)
+
+
+![ProFuturo-FT](https://github.com/miqelo/hack4edujodye/assets/107508583/76685f52-b620-4a1c-9852-f58240e2ced7)
+
+
+![Temascalcingo](https://github.com/miqelo/hack4edujodye/assets/107508583/063782f0-8127-4859-af0c-e3431198a1c7)
+
