@@ -1,19 +1,5 @@
-# Bootstrap 4 Start Template
-Kick Start your Bootstrap 4 Project with this lightweight template, it only loads the require bootstrap files plus a stylesheet and a javascript file for your custom code.
-
-## Instructions
-
-- Download this project
-- Decompress
-- Change directory name
-- Build Something great
-
-# Template Bootstrap 4
-Inicia tu proyecto con este template ligero, solo viene con los archivos necesarios, así como una hoja de estilos y una archivo javascript para tu código.
+# Jodyeweb
+Es un sistema que incluye una inteligencia artifical de seguimiento de sesiones autogestivas de conocimiento
 
 ## Instrucciones
-
-- Descarga este proyecto
-- Descomprime
-- Cambia el nombre del proyecto
-- Crea algo increible!
+agrega nuevo material desde las carpetas de videos, procura que estos sean de buena calidad, en este apartado se subieron algunos en baja resolucion, pero dan un panorama general del sistema
